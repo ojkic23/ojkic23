@@ -1,16 +1,29 @@
-## Hi there 👋
+Hello Everyone 👋,
 
-<!--
-**ojkic23/ojkic23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Andrija and 🐍 I am a junior Python developer from Serbia
 
-Here are some ideas to get you started:
+🎯 Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: HTML&CSS, JavaScript
+
+Tools & Packages: GUi, Tkinter, PyGame, Flask, Matplotlib
+
+QA Engineer(Jira)
+
+📖 Learning
+
+JavaScript for front-end optimization
+
+HTML&CSS
+
+SQL Database
+
+MySQL Workbench
+
+🔗 Contacts:
+
+🌐 LinkedIn: https://www.linkedin.com/in/andrija-ojkic-88a625276/
+
+💻 GitHub: https://github.com/ojkic23
+
+📧 Email: andrijaojkic24@gmail.com
