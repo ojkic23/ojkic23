@@ -2,6 +2,8 @@
 
 My name is Andrija and 🐍 I am a junior Python developer from Serbia
 
+
+
 🎯 Skills
 
 Languages: HTML&CSS, JavaScript
@@ -9,6 +11,8 @@ Languages: HTML&CSS, JavaScript
 Tools & Packages: GUi, Tkinter, PyGame, Flask, Matplotlib
 
 QA Engineer(Jira)
+
+
 
 📖 Learning
 
@@ -19,6 +23,8 @@ HTML&CSS
 SQL Database
 
 MySQL Workbench
+
+
 
 🔗 Contacts:
 
