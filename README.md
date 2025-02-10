@@ -1,4 +1,4 @@
-Hello Everyone 👋,
+   Hello Everyone 👋,
 
 My name is Andrija and 🐍 I am a junior Python developer from Serbia
 
