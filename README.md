@@ -16,11 +16,11 @@ QA Engineer(Jira)
 
 📖 Learning
 
+Web Design
+
 JavaScript for front-end optimization
 
 HTML&CSS
-
-SQL Database
 
 MySQL Workbench
 
