@@ -28,7 +28,7 @@ MySQL Workbench
 
 🔗 Contacts:
 
-🌐 LinkedIn: https://www.linkedin.com/in/andrija-ojkic-88a625276/
+🌐 LinkedIn: https://www.linkedin.com/in/andrija-ojkic
 
 💻 GitHub: https://github.com/ojkic23
 
