@@ -8,10 +8,10 @@ I’m passionate about creating clean, functional, and visually appealing web so
 
 🎯 Skills - 
 
-Languages: HTML, CSS, JavaScript (entry-level), Python 🐍
-Frameworks & Libraries: Flask, Tkinter, PyGame, Matplotlib
-Tools & Platforms: Git, Jira, MySQL Workbench
-Expertise: GUI 🖥️, UI/UX Design 🎨, Front-End Development 🌐, QA Testing ✅
+Languages: HTML, CSS, JavaScript (entry-level), Python 🐍 |
+Frameworks & Libraries: Flask, Tkinter, PyGame, Matplotlib | 
+Tools & Platforms: Git, Jira, MySQL Workbench |
+Expertise: GUI 🖥️, UI/UX Design 🎨, Front-End Development 🌐, QA Testing ✅ |
 
 
 📖 Currently Learning - 
