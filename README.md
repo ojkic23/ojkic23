@@ -31,7 +31,7 @@ Responsive Design & UX Improvements 📱
 
 🔗 Contacts - 
 
-🌐 LinkedIn: linkedin.com/in/andrija-ojkic
+🌐 LinkedIn: linkedin.com/in/andrija-ojkic01
 
 💻 GitHub: github.com/ojkic23
 
