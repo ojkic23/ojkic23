@@ -18,8 +18,7 @@
 - 🐍 Python developer (TensorFlow, Flask, Matplotlib)
 - 💻 Frontend developer (HTML, CSS, SCSS, UI/UX)
 - 🛒 Experience with **WebFlow**, **WordPress**, and custom e-commerce solutions
-- 📚 Currently learning **JavaScript**, **C#**, and improving web dev skills
-- 🎮 Dragon Ball Z: Dokkan Battle fan — **Vegeta supremacy** 💥
+- 📚 Currently learning **JavaScript** and improving web dev skills
 
 ---
 
