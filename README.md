@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=900&color=36F9C9&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Glad+to+have+you+here+👋;Enjoy+your+stay!">
+<img src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="200">
+
 
 
 
