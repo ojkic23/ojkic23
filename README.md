@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" width="230" />
+<img src="https://media.giphy.com/media/fWg1rFqP5hH8E/giphy.gif" width="240" />
 
 
 
@@ -30,7 +30,7 @@
 
 ## 📫 Contact
 - ✉️ Email: **andrijaojkic24@gmail.com**
-- 🔗 LinkedIn: *linkedin.com/in/andrija-ojkic01*
+- 🔗 LinkedIn: **linkedin.com/in/andrija-ojkic01**
 
 ---
 
