@@ -16,7 +16,7 @@
 
 ---
 
-## 🧰 Tech Stack
+## 🧰 Languages & Tools
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,wordpress" />
