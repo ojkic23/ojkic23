@@ -3,7 +3,7 @@
 
 # 👋 Hello Everyone
 
-![Space Wave GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+![Galaxy GIF](https://media.giphy.com/media/26xBukhNQhEzQ5x3a/giphy.gif)
 
 
 </div>
