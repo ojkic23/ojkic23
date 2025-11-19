@@ -2,8 +2,9 @@
 
 
 # 👋 Hello Everyone
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/6cbc805f-932e-49e6-aebe-3d6dd47ff267" />
 
-[(https://giphy.com/gifs/universe-spiral-galaxy-star-cluster-vortex-konczakowski-3og0IFrHkIglEOg8Ba)](https://giphy.com/gifs/universe-spiral-galaxy-star-cluster-vortex-konczakowski-3og0IFrHkIglEOg8Ba)
+![Cosmic GIF]
 
 
 
