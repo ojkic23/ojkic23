@@ -13,10 +13,11 @@
 ---
 
 ## 🧑‍💻 About Me
+- 👨‍💻 Junior **Python Developer** & **Web Designer**
 - 🎓 Graduated from **ITAcademy — AI & Python Development**
 - 🐍 Python developer (TensorFlow, Flask, Matplotlib)
-- 💻 Frontend developer (React.js, Tailwind, SCSS, UI/UX)
-- 🛒 Experience with **Shopify**, **WordPress**, and custom e‑commerce solutions
+- 💻 Frontend developer (HTML, CSS, SCSS, UI/UX)
+- 🛒 Experience with **WebFlow**, **WordPress**, and custom e-commerce solutions
 - 📚 Currently learning **JavaScript**, **C#**, and improving web dev skills
 - 🎮 Dragon Ball Z: Dokkan Battle fan — **Vegeta supremacy** 💥
 
@@ -52,7 +53,7 @@
 
 ## 📫 Contact
 - ✉️ Email: **andrijaojkic24@gmail.com**
-- 🔗 LinkedIn: linkedin.com/in/andrija-ojkic01
+- 🔗 LinkedIn: *dodaj link kad budeš imao*
 
 ---
 
@@ -63,14 +64,3 @@
 <img src="https://media.giphy.com/media/l3vRlXIpan0bp0O88/giphy.gif" width="200" />
 
 </div>
-
-
-
-
-🔗 Contacts - 
-
-🌐 LinkedIn: linkedin.com/in/andrija-ojkic01
-
-💻 GitHub: github.com/ojkic23
-
-📧 Email: andrijaojkic24@gmail.com
