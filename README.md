@@ -3,7 +3,7 @@
 
 # 👋 Hello Everyone
 
-![Cosmic GIF 4](https://media.giphy.com/media/26xBukhNQhEzQ5x3a/giphy.gif) 
+![Cosmos Bounce](https://upload.wikimedia.org/wikipedia/commons/5/59/Cosmos-animation_Bouncing.gif)  
 
 
 </div>
