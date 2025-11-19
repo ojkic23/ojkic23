@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2FFFD6&lines=Hello+There+👋;I'm+Andrija!;Junior+Python+Developer;Web+Designer">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=900&color=36F9C9&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Glad+to+have+you+here+👋;Enjoy+your+stay!">
+
 
 
 </div>
