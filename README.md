@@ -3,7 +3,7 @@
 
 # 👋 Hello Everyone
 
-![Cosmic GIF 2](https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif) 
+![Cosmic GIF 3](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) 
 
 
 </div>
