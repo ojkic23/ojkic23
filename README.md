@@ -1,5 +1,3 @@
-<!-- Modern GitHub About Me for Andrija -->
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2FFFD6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Andrija+👋;Python+Developer+%7C+Frontend+Developer;React+%7C+Tailwind+%7C+UI%2FUX;Welcome+to+my+GitHub!" />
