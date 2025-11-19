@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="260" />
-
-
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="300" />
 
 
 
