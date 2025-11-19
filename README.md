@@ -12,9 +12,9 @@
 ## 🧑‍💻 About Me
 - 👨‍💻 Junior **Python Developer** & **Web Designer**
 - 🎓 Graduated from **ITAcademy — AI & Python Development**
-- 🐍 **Python Developer** (TensorFlow, Flask, Matplotlib, Django, NumPy, PyGame, PyTest)
-- 💻 Frontend developer (HTML, CSS, JavaScript, UI/UX)
-- 🛒 Experience with **WebFlow**, **WordPress**, and custom e-commerce solutions
+- 🐍 **Python Developer** (TensorFlow, Flask, Matplotlib, Django, NumPy, PyGame, PyTest, GUI)
+- 🎨 Frontend Developer (HTML, CSS, JavaScript, UI/UX)
+- 🛒 Experience with **QA Testing ✅**, **WordPress**, and custom e-commerce solutions
 - 📚 Currently learning **JavaScript** and improving web dev skills
 
 ---
@@ -22,7 +22,7 @@
 ## 🧰 Languages & Tools
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,git,github,gui,wordpress" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,git,github,wordpress" />
 
 </div>
 
