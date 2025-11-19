@@ -22,7 +22,7 @@
 ## 🧰 Languages & Tools
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,git,github,workbench,wordpress" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,javascript,git,github,gui,wordpress" />
 
 </div>
 
