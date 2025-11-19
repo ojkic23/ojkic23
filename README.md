@@ -40,6 +40,6 @@
 
 ### Thanks for visiting my profile! :)
 
-<img src="https://media.giphy.com/media/l3vRlXIpan0bp0O88/giphy.gif" width="200" />
+<img src=\"https://media.giphy.com/media/5GoVLqeAOo6PK/giphy.gif\" width=\"250\" />
 
 </div>
