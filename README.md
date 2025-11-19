@@ -1,7 +1,10 @@
 <div align="center">
 
 
-<img src="https://media.giphy.com/media/fWg1rFqP5hH8E/giphy.gif" width="240" />
+# 👋 Hello Everyone
+
+![Cosmic GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+
 
 
 
