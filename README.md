@@ -29,7 +29,6 @@
 - ✉️ Email: **andrijaojkic24@gmail.com**
 - 🔗 LinkedIn: *linkedin.com/in/andrija-ojkic01*
 
-- 
 ---
 
 <div align="center">
