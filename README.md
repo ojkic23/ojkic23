@@ -19,18 +19,7 @@
 ## 🧰 Tech Stack
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,react,js,html,css,bootstrap,tailwind,git,github,wordpress" />
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrijaojkic&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrijaojkic&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=python,mysql,html,css,git,github,wordpress" />
 
 </div>
 
