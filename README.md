@@ -2,10 +2,8 @@
 
 
 # 👋 Hello Everyone
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/6cbc805f-932e-49e6-aebe-3d6dd47ff267" />
 
-![Cosmic GIF]
-
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDI1YjJsdXViMXU3b3FncjhoanFsdmZwaGQ0b3pkaHlzM2N1NjRjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3og0IFrHkIglEOg8Ba/giphy.gif
 
 
 
