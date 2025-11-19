@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=2FFFD6&lines=Hello+There+👋;I'm+Andrija!;Junior+Python+Developer;Web+Designer">
+
 
 </div>
 
