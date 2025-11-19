@@ -25,17 +25,9 @@
 
 ---
 
-## 🎨 Aesthetic Divider
-<img src="https://github.com/andrijaojkic.png" width="0" height="0"/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andrijaojkic/andrijaojkic/main/assets/wave.svg" width="100%" />
-</div>
-
----
-
 ## 📫 Contact
 - ✉️ Email: **andrijaojkic24@gmail.com**
-- 🔗 LinkedIn: *dodaj link kad budeš imao*
+- 🔗 LinkedIn: *linkedin.com/in/andrija-ojkic01*
 
 ---
 
