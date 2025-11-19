@@ -39,7 +39,7 @@
 
 <div align="center">
 
-### Thanks for visiting my profile! :)
+### Thanks for visiting my profile!😊
 
 <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="300" />
 
