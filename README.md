@@ -3,7 +3,7 @@
 
 # 👋 Hello Everyone
 
-
+![Cosmic GIF](assets/gifs/StarWarsSpace.gif)
 
 
 </div>
