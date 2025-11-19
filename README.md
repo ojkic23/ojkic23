@@ -1,31 +1,69 @@
-💼 About Me
+<!-- Modern GitHub About Me for Andrija -->
 
+<div align="center">
 
-Hello everyone 👋
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2FFFD6&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Andrija+👋;Python+Developer+%7C+Frontend+Developer;React+%7C+Tailwind+%7C+UI%2FUX;Welcome+to+my+GitHub!" />
 
-My name is Andrija Ojkic, and I’m a Junior Python Developer 🐍 and Web Designer 🎨 from Serbia.
-I’m passionate about creating clean, functional, and visually appealing web solutions and GUI applications that combine both code and design.
+<br/>
 
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="250" />
 
+</div>
 
-🎯 Skills - 
+---
 
-Languages: HTML, CSS, JavaScript (entry-level), Python 🐍 |
-Frameworks & Libraries: Flask, Tkinter, PyGame, Matplotlib | 
-Tools & Platforms: Git, Jira, MySQL Workbench |
-Expertise: GUI 🖥️, UI/UX Design 🎨, Front-End Development 🌐, QA Testing ✅ |
+## 🧑‍💻 About Me
+- 🎓 Graduated from **ITAcademy — AI & Python Development**
+- 🐍 Python developer (TensorFlow, Flask, Matplotlib)
+- 💻 Frontend developer (React.js, Tailwind, SCSS, UI/UX)
+- 🛒 Experience with **Shopify**, **WordPress**, and custom e‑commerce solutions
+- 📚 Currently learning **JavaScript**, **C#**, and improving web dev skills
+- 🎮 Dragon Ball Z: Dokkan Battle fan — **Vegeta supremacy** 💥
 
+---
 
+## 🧰 Tech Stack
+<div align="center">
 
-📖 Currently Learning - 
+<img src="https://skillicons.dev/icons?i=python,mysql,react,js,html,css,bootstrap,tailwind,git,github,wordpress" />
 
-JavaScript for Front-End Optimization 💻
+</div>
 
-Modern Web Design Principles 🎨
+---
 
-Database Management (MySQL) 🗄️
+## 📊 GitHub Statistics
 
-Responsive Design & UX Improvements 📱
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrijaojkic&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrijaojkic&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎨 Aesthetic Divider
+<img src="https://github.com/andrijaojkic.png" width="0" height="0"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andrijaojkic/andrijaojkic/main/assets/wave.svg" width="100%" />
+</div>
+
+---
+
+## 📫 Contact
+- ✉️ Email: **andrijaojkic24@gmail.com**
+- 🔗 LinkedIn: linkedin.com/in/andrija-ojkic01
+
+---
+
+<div align="center">
+
+### 💚 Thanks for visiting my profile!
+
+<img src="https://media.giphy.com/media/l3vRlXIpan0bp0O88/giphy.gif" width="200" />
+
+</div>
+
 
 
 
