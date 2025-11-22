@@ -17,7 +17,7 @@
      - Libraries (TensorFlow, Flask, Tkinter, Matplotlib, Django, NumPy, PyTest, Scikit-learn)
 - 🎨 Frontend (HTML, CSS, JavaScript, UI/UX)
 - 🛒 Experience with **QA Testing ✅**, **WordPress**, **MySQL(Workbench)** and custom e-commerce solutions
-- 📚 Currently learning **JavaScript**, Web preformance optimization & skills, building more Python applications involving databases and automation 
+- 📚 Currently learning **JavaScript**, Web preformance optimization & skills and building more Python applications involving databases and automation 
 
 ---
 
