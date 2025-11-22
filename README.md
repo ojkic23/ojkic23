@@ -9,14 +9,14 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 - 👨‍💻 Junior **Python Developer** & **Web Designer**
 - 🎓 Graduated from **ITAcademy — AI & Python Development**
 - 🐍 **Python Skills**
      - Tehnologies (Web Development, Data Science / Machine Learning / AI, GUI, Automation / Scripting, Testing, Database)
      - Libraries (TensorFlow, Flask, Tkinter, Matplotlib, Django, NumPy, PyTest, Scikit-learn)
 - 🎨 Frontend (HTML, CSS, JavaScript, UI/UX)
-- 🛒 Experience with **QA Testing ✅**, **WordPress**, **MySQL(Workbench)** and custom e-commerce solutions
+- 💻 Experience with **QA Testing ✅**, **WordPress**, **MySQL(Workbench)** and custom e-commerce solutions
 - 📚 Currently learning **JavaScript**, Web preformance optimization & skills and building more Python applications involving databases and automation 
 
 ---
